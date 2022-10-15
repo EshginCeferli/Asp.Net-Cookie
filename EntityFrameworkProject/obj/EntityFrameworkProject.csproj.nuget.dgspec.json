@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ESQIN\\OneDrive\\İş masası\\CloneProjects\\Fiorello-backend\\EntityFrameworkProject\\EntityFrameworkProject.csproj": {}
+    "C:\\Users\\ESQIN\\OneDrive\\İş masası\\Aspi.Net\\Asp.Net-Cookies\\Fiorello-backend\\EntityFrameworkProject\\EntityFrameworkProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ESQIN\\OneDrive\\İş masası\\CloneProjects\\Fiorello-backend\\EntityFrameworkProject\\EntityFrameworkProject.csproj": {
+    "C:\\Users\\ESQIN\\OneDrive\\İş masası\\Aspi.Net\\Asp.Net-Cookies\\Fiorello-backend\\EntityFrameworkProject\\EntityFrameworkProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ESQIN\\OneDrive\\İş masası\\CloneProjects\\Fiorello-backend\\EntityFrameworkProject\\EntityFrameworkProject.csproj",
+        "projectUniqueName": "C:\\Users\\ESQIN\\OneDrive\\İş masası\\Aspi.Net\\Asp.Net-Cookies\\Fiorello-backend\\EntityFrameworkProject\\EntityFrameworkProject.csproj",
         "projectName": "EntityFrameworkProject",
-        "projectPath": "C:\\Users\\ESQIN\\OneDrive\\İş masası\\CloneProjects\\Fiorello-backend\\EntityFrameworkProject\\EntityFrameworkProject.csproj",
+        "projectPath": "C:\\Users\\ESQIN\\OneDrive\\İş masası\\Aspi.Net\\Asp.Net-Cookies\\Fiorello-backend\\EntityFrameworkProject\\EntityFrameworkProject.csproj",
         "packagesPath": "C:\\Users\\ESQIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ESQIN\\OneDrive\\İş masası\\CloneProjects\\Fiorello-backend\\EntityFrameworkProject\\obj\\",
+        "outputPath": "C:\\Users\\ESQIN\\OneDrive\\İş masası\\Aspi.Net\\Asp.Net-Cookies\\Fiorello-backend\\EntityFrameworkProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

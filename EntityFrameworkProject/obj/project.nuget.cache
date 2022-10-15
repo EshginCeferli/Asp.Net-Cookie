@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NDCjMK5FCSn2lMk1NGLpFTxmuhg366d0w4cqTPAx8GB14KKa0NgjsFvR0Y450IjF+AyiaXeoCEwVj7uVYIY1YA==",
+  "dgSpecHash": "WNgU0FRafvyUASoS4uOfc9xt/C2V5+XBEuf1HSo1UlvWxDTlHxp1/z4++4juzmyiqtD9VaBoaBeRij1yhIFdqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ESQIN\\OneDrive\\İş masası\\CloneProjects\\Fiorello-backend\\EntityFrameworkProject\\EntityFrameworkProject.csproj",
+  "projectFilePath": "C:\\Users\\ESQIN\\OneDrive\\İş masası\\Aspi.Net\\Asp.Net-Cookies\\Fiorello-backend\\EntityFrameworkProject\\EntityFrameworkProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ESQIN\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\ESQIN\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

@@ -78,7 +78,9 @@ namespace EntityFrameworkProject.Controllers
                 baskets = new List<BasketVM>();
             }
 
+            
             var basketCount = baskets.Count;
+            basketCount = 1;
 
             var isExist = baskets.Find(m => m.Id == id);
 
